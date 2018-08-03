@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>image01</key>
+	<string>image_night</string>
+	<key>image02</key>
+	<string>home_normal.png</string>
+	<key>image03</key>
+	<string>me_selected</string>
+	<key>color01</key>
+	<string>#343434</string>
+	<key>color02</key>
+	<string>#C0C0C0</string>
+	<key>color03</key>
+	<string>#C0C0C0</string>
+	<key>color04</key>
+	<string>#FFF0F5</string>
+	<key>color05</key>
+	<string>#00BFFF</string>
+</dict>
+</plist>

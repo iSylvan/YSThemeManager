@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultTheme</key>
+	<string>01</string>
+	<key>defaultImageBasePath</key>
+	<string></string>
+	<key>themes</key>
+	<array>
+		<dict>
+			<key>themeID</key>
+			<string>01</string>
+			<key>themeVersion</key>
+			<integer>1</integer>
+			<key>themeName</key>
+			<string>1</string>
+			<key>themeImageBasePath</key>
+			<string></string>
+			<key>skinFilePathArr</key>
+			<array>
+				<string>@(MAINBUNDLE)/skinfileExample0.plist</string>
+				<string>@(MAINBUNDLE)/skinfileExample0_1.plist</string>
+			</array>
+		</dict>
+		<dict>
+			<key>themeID</key>
+			<string>02</string>
+			<key>themeVersion</key>
+			<integer>1</integer>
+			<key>themeName</key>
+			<string>2</string>
+			<key>themeImageBasePath</key>
+			<string></string>
+			<key>skinFilePathArr</key>
+			<array>
+				<string>@(MAINBUNDLE)/skinfileExample1.plist</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

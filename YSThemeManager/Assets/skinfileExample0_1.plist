@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>@skinfileType</key>
+	<integer>1</integer>
+	<key>@imageBasePath</key>
+	<string>@(MAINBUNDLE)/images2.bundle</string>
+	<key>@image</key>
+	<dict>
+		<key>image03</key>
+		<string>home_selected</string>
+	</dict>
+	<key>@color</key>
+	<dict>
+		<key>color02</key>
+		<string>#4682B4</string>
+		<key>color03</key>
+		<string>#696969</string>
+		<key>color04</key>
+		<string>#DA70D6</string>
+		<key>color05</key>
+		<string>#F5F5F5</string>
+		<key>color02_</key>
+		<string>0x4682B4FF</string>
+	</dict>
+	<key>@other</key>
+	<dict/>
+</dict>
+</plist>
