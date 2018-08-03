@@ -9,6 +9,7 @@
 #import "NSObject+YSThemeSupport.h"
 #import <objc/runtime.h>
 #import "NSNotificationCenter+securityFunction.h"
+#import "YSThemePrivate.h"
 
 @interface NSObject ()
 

@@ -8,6 +8,7 @@
 
 #import "YSThemeSupport.h"
 #import <objc/message.h>
+#import "YSThemePrivate.h"
 
 @interface YSThemeSupport ()
 @property(nonatomic,strong)NSHashTable * targetSet;

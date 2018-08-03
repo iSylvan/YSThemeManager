@@ -6,6 +6,7 @@
 //
 
 #import "UIView+Skin.h"
+#import "YSThemePrivate.h"
 
 @implementation UIView (Skin)
 

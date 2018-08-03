@@ -12,6 +12,7 @@
 #import "UILabel+Skin.h"
 #import "UIView+Skin.h"
 #import "UIImageView+Skin.h"
+#import "YSThemePrivate.h"
 
 @interface TabTwoViewController ()
 

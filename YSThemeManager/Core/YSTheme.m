@@ -7,6 +7,7 @@
 //
 
 #import "YSTheme.h"
+#import "YSThemePrivate.h"
 
 typedef NSString *  YSThemeSkinFileInfoKey;
 YSThemeSkinFileInfoKey  const  kYSThemeSkinFileInfo_skinfileType = @"@skinfileType";

@@ -6,6 +6,8 @@
 //
 
 #import "UIImageView+Skin.h"
+#import "YSThemePrivate.h"
+
 @interface UIImageView ()
 
 @end

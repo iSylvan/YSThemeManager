@@ -8,6 +8,7 @@
 
 #import "YSThemeHelper.h"
 #import "YSPathParser.h"
+#import "YSThemePrivate.h"
 
 NSString *const YSThemeErrorDomain = @"YSThemeErrorDomain";
 

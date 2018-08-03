@@ -8,6 +8,7 @@
 
 #import "UIColor+SKin.h"
 #import "YSTheme.h"
+#import "YSThemePrivate.h"
 
 @implementation UIColor (SKin)
 

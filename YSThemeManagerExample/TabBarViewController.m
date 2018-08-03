@@ -7,7 +7,7 @@
 //
 
 #import "TabBarViewController.h"
-
+#import "YSThemePrivate.h"
 
 @interface TabBarViewController ()
 

@@ -7,7 +7,7 @@
 //
 
 #import "YSNotificationObserverProxy.h"
-
+#import "YSThemePrivate.h"
 
 @implementation YSForwardProxy
 

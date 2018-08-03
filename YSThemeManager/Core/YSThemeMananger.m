@@ -9,7 +9,7 @@
 #import "YSThemeMananger.h"
 #import "YSPathParser.h"
 #import "YSThemeHelper.h"
-
+#import "YSThemePrivate.h"
 #import "YSThemeSupport.h"
 
 YSThemeKey  const  kYSTheme_themeID = @"themeID";

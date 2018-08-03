@@ -93,7 +93,6 @@
 		2226DCAC1FE3EEA90059EE43 /* YSThemeSupport.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YSThemeSupport.m; sourceTree = "<group>"; };
 		2226DCAE1FE3F0D80059EE43 /* YSThemeHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YSThemeHelper.h; sourceTree = "<group>"; };
 		2226DCAF1FE3F0D80059EE43 /* YSThemeHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YSThemeHelper.m; sourceTree = "<group>"; };
-		224FFDCF203E980A00572B3C /* YSThemeSupportProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YSThemeSupportProtocol.h; sourceTree = "<group>"; };
 		224FFDD0203EA69200572B3C /* NSObject+YSThemeSupport.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+YSThemeSupport.h"; sourceTree = "<group>"; };
 		224FFDD1203EA69200572B3C /* NSObject+YSThemeSupport.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+YSThemeSupport.m"; sourceTree = "<group>"; };
 		224FFDD3203EB74000572B3C /* NSNotificationCenter+securityFunction.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSNotificationCenter+securityFunction.m"; sourceTree = "<group>"; };
@@ -239,7 +238,6 @@
 				2226DCA91FE3EE8A0059EE43 /* YSTheme.m */,
 				2226DCA51FE3EE710059EE43 /* YSThemeMananger.h */,
 				2226DCA61FE3EE710059EE43 /* YSThemeMananger.m */,
-				224FFDCF203E980A00572B3C /* YSThemeSupportProtocol.h */,
 				224FFDD0203EA69200572B3C /* NSObject+YSThemeSupport.h */,
 				224FFDD1203EA69200572B3C /* NSObject+YSThemeSupport.m */,
 				2226DCAB1FE3EEA90059EE43 /* YSThemeSupport.h */,

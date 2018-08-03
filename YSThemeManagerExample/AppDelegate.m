@@ -8,6 +8,8 @@
 
 #import "AppDelegate.h"
 #import "YSThemeMananger.h"
+#import "YSThemePrivate.h"
+
 @interface AppDelegate ()
 
 @end

@@ -10,6 +10,7 @@
 #import "YSNotificationObserverProxy.h"
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
+#import "YSThemePrivate.h"
 
 const char NotificationObserverProxyKey = '\0';
 @interface NSObject(securityFunction)

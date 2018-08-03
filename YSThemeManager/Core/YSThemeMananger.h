@@ -6,7 +6,7 @@
 //  Copyright © 2017年 iSylvan. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 #import "YSTheme.h"
 NS_ASSUME_NONNULL_BEGIN
 

@@ -7,6 +7,7 @@
 //
 
 #import "TableViewController.h"
+#import "YSThemePrivate.h"
 
 @interface TableViewController ()
 

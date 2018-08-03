@@ -11,6 +11,7 @@
 #import "YSThemeMananger.h"
 #import "YSThemeHelper.h"
 #import "YSPathParser.h"
+#import "YSThemePrivate.h"
 
 @interface YSSkinItem ()
 @property (nonatomic, weak ,readonly) NSDictionary<YSThemeSkinItemInfoKey,id> * skinItemData;  ///< 当前项数据

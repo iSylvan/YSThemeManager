@@ -6,7 +6,7 @@
 //
 
 #import "UILabel+Skin.h"
-
+#import "YSThemePrivate.h"
 @interface UILabel ()
 @end
 

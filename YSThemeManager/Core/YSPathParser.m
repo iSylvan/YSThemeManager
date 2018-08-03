@@ -7,6 +7,7 @@
 //
 
 #import "YSPathParser.h"
+#import "YSThemePrivate.h"
 
 //$(MAINBUNDLE)app包路径
 //$(SANDBOX) 沙盒路径，下载的skinSource文件或者下载的图片资源包可以放在沙盒内
