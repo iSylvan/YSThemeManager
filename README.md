@@ -76,10 +76,7 @@ YSThemeSupport addThemeChangedHandler0ToTarget:(__kindof NSObject *)target sel:(
 #### 介绍SkinInfo配置文件
 
 SkinInfo 皮肤配置索引文件
-<center>
-<img src="readmeImageSource/skinInfo.png" width="100%" height="100%" />
-skinInfo改变文件路径
-</center>
+![skinInfo改变文件路径](readmeImageSource/skinInfo.png )
 
 ```objc
 YSThemeMananger.m
