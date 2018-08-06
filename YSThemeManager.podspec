@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "YSThemeManager"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "ThemeManager"
   s.homepage     = "https://github.com/iSylvan/YSThemeManager"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
